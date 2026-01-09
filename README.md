@@ -2,7 +2,7 @@
 
 <!-- Header banner (background) -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Julien%20Nguyen-Lam&fontSize=54&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Tokyo%2C%20Japan&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Julien%20Nguyen&fontSize=54&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Tokyo%2C%20Japan&descAlignY=60&animation=fadeIn"
 />
 
 <!-- Short intro -->
